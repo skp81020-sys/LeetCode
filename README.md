@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/skp81020-sys/LeetCode/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/skp81020-sys/LeetCode/tree/master/0127-word-ladder) |
 ## Math
 |  |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/skp81020-sys/LeetCode/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/skp81020-sys/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
