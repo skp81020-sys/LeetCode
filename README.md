@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/skp81020-sys/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0518-coin-change-ii](https://github.com/skp81020-sys/LeetCode/tree/master/0518-coin-change-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/skp81020-sys/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1143-longest-common-subsequence](https://github.com/skp81020-sys/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/skp81020-sys/LeetCode/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/skp81020-sys/LeetCode/tree/master/0127-word-ladder) |
+| [1143-longest-common-subsequence](https://github.com/skp81020-sys/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
