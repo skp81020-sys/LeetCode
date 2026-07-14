@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/skp81020-sys/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/skp81020-sys/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/skp81020-sys/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/skp81020-sys/LeetCode/tree/master/0072-edit-distance) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/skp81020-sys/LeetCode/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/skp81020-sys/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/skp81020-sys/LeetCode/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/skp81020-sys/LeetCode/tree/master/0127-word-ladder) |
 | [1143-longest-common-subsequence](https://github.com/skp81020-sys/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -145,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/skp81020-sys/LeetCode/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/skp81020-sys/LeetCode/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/skp81020-sys/LeetCode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
