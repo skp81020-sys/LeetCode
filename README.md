@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/skp81020-sys/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0518-coin-change-ii](https://github.com/skp81020-sys/LeetCode/tree/master/0518-coin-change-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/skp81020-sys/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1137-n-th-tribonacci-number](https://github.com/skp81020-sys/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/skp81020-sys/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Binary Search
 |  |
@@ -143,10 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/skp81020-sys/LeetCode/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/skp81020-sys/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/skp81020-sys/LeetCode/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/skp81020-sys/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
