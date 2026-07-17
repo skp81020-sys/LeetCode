@@ -1,8 +1,6 @@
 class Solution {
     public int rob(int[] arr) {
          int n=arr.length;
-
-        if(n==0) return 0;
         if(n==1)  return arr[0];
         if(n==2)  return Math.max(arr[0], arr[1]);
 
