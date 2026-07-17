@@ -31,15 +31,15 @@ class Solution {
        
     }
     public int longestIncreasingPath(int[][]  arr) {
- int n=arr.length;
+        int n=arr.length;
         int m=arr[0].length;
         int ans =0;
         int dp[][]=new int[n][m];
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                ans =Math.max(ans, dfs(arr,n,m,i,j,dp));
+                ans =Math.max(ans, dfs(arr,n,m,i,j,dp)+1);
             }
         }
-        return ans +1;
+        return ans ;
     }
 }
