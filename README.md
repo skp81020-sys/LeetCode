@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/skp81020-sys/LeetCode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/skp81020-sys/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/skp81020-sys/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0516-longest-palindromic-subsequence](https://github.com/skp81020-sys/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/skp81020-sys/LeetCode/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/skp81020-sys/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/skp81020-sys/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/skp81020-sys/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/skp81020-sys/LeetCode/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/skp81020-sys/LeetCode/tree/master/0127-word-ladder) |
+| [0516-longest-palindromic-subsequence](https://github.com/skp81020-sys/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/skp81020-sys/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
