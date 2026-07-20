@@ -1,13 +1,12 @@
 class Solution {
     public int maxProduct(int[] arr) {
-          int ans=Integer.MIN_VALUE;
+        int ans=Integer.MIN_VALUE;
         int n=arr.length;
         int prefix=1;
-        int fllag=0;
         // find out the prefix 
         for(int i=0;i<n;i++){
             if(arr[i]==0){
-                fllag=1;
+                ans = Math.max(ans, 0); 
                 prefix=1;
             }else{
                 prefix *=arr[i];
@@ -20,6 +19,7 @@ class Solution {
         for(int i=n-1;i>=0;i--){
             if(arr[i]==0){
                 sufix=1;
+                ans = Math.max(ans, 0);
             }
             else{
                 sufix *=arr[i];
@@ -27,9 +27,9 @@ class Solution {
             }
              
         }
-        if(fllag ==1 && ans < 0){
-            return 0;
-        }
+        // if(fllag ==1 && ans < 0){
+        //     return 0;
+        // }
         return ans;
     }
 }
