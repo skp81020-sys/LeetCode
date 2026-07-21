@@ -10,11 +10,7 @@ class Solution {
             int k=n-1;
             while (j < k) {
                 if(arr[i]+arr[j]+arr[k]==0){
-                    ArrayList<Integer> a=new ArrayList<>();
-                    a.add(arr[i]);
-                    a.add(arr[j]);
-                    a.add(arr[k]);
-                    ans.add(a);
+                  ans.add(List.of(arr[i], arr[j], arr[k]));
                     j++;
                     k--;
                     while(j <k && arr[j]==arr[j-1]) {
@@ -28,12 +24,6 @@ class Solution {
                     j=j+1;
                 }
             }
-        }
-        for(int i=0;i<ans.size();i++){
-            for(int j=0;j<ans.get(i).size();j++){
-                System.out.print(ans.get(i).get(j) +" ");
-            }
-            System.out.println();
         }
         return ans;
     }
