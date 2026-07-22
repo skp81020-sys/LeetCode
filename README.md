@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/skp81020-sys/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/skp81020-sys/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/skp81020-sys/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/skp81020-sys/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/skp81020-sys/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/skp81020-sys/LeetCode/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/skp81020-sys/LeetCode/tree/master/0695-max-area-of-island) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/skp81020-sys/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/skp81020-sys/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/skp81020-sys/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/skp81020-sys/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/skp81020-sys/LeetCode/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/skp81020-sys/LeetCode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/skp81020-sys/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/skp81020-sys/LeetCode/tree/master/0217-contains-duplicate) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/skp81020-sys/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/skp81020-sys/LeetCode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/skp81020-sys/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/skp81020-sys/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/skp81020-sys/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/skp81020-sys/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/skp81020-sys/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Depth-First Search
 |  |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/skp81020-sys/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/skp81020-sys/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/skp81020-sys/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/skp81020-sys/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/skp81020-sys/LeetCode/tree/master/0994-rotting-oranges) |
