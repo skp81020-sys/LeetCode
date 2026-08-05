@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/skp81020-sys/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/skp81020-sys/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/skp81020-sys/LeetCode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/skp81020-sys/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/skp81020-sys/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/skp81020-sys/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/skp81020-sys/LeetCode/tree/master/0056-merge-intervals) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/skp81020-sys/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/skp81020-sys/LeetCode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/skp81020-sys/LeetCode/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/skp81020-sys/LeetCode/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/skp81020-sys/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/skp81020-sys/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/skp81020-sys/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/skp81020-sys/LeetCode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/skp81020-sys/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/skp81020-sys/LeetCode/tree/master/0217-contains-duplicate) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/skp81020-sys/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/skp81020-sys/LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/skp81020-sys/LeetCode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/skp81020-sys/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/skp81020-sys/LeetCode/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/skp81020-sys/LeetCode/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/skp81020-sys/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
