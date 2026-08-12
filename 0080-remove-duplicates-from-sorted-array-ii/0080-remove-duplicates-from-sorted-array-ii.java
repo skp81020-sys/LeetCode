@@ -1,17 +1,14 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int n=nums.length;
-       HashMap<Integer, Integer> hs = new HashMap<>();
-        int i=-1;
-        for(int j=0;j<n;j++){
-            hs.put(nums[j],hs.getOrDefault(nums[j], 0) + 1);
+        int j=0;
 
-            if(hs.get(nums[j])<=2){
-                i++;
-                nums[i]=nums[j];
+        for(int i=0;i<nums.length;i++){
+            if(i < 2 || nums[i] > nums[j-2]){
+                nums[j]=nums[i];
+                j++;
             }
         }
 
-        return i+1;
+        return j;
     }
 }
