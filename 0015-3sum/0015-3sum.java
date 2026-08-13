@@ -1,30 +1,30 @@
 class Solution {
-    public List<List<Integer>> threeSum(int[] arr) {
-         int n=arr.length;
+    public List<List<Integer>> threeSum(int[]  arr) {
+        List<List<Integer>> ans=new ArrayList<>();
         Arrays.sort(arr);
-        ArrayList<List<Integer>> ans =new ArrayList<>();
-        for(int i=0;i<n;i++){
-            if(i > 0 && arr[i]==arr[i-1]) continue;
-            // by Usicg the two Pointer
+        int n=arr.length;
+        for(int i=0;i<n-2;i++){
+            if(i> 0 && arr[i]==arr[i-1]) continue;
+
             int j=i+1;
             int k=n-1;
-            while (j < k) {
-                if(arr[i]+arr[j]+arr[k]==0){
-                  ans.add(List.of(arr[i], arr[j], arr[k]));
+
+            while(j < k){
+                if(arr[j]+arr[k] ==- arr[i]){
+                   List<Integer> a = new ArrayList<>(List.of(arr[i], arr[j], arr[k])); 
+                     ans.add(a);
+                    j++;k--;
+                    while (j < k && arr[j] == arr[j - 1]) j++;  
+                    while (j < k && arr[k] == arr[k + 1]) k--;
+
+                }else if(arr[k]+arr[j] < -arr[i]){
                     j++;
+                }else{
                     k--;
-                    while(j <k && arr[j]==arr[j-1]) {
-                        j++;
-                    }
-                }
-                else if(arr[i]+arr[j]+arr[k] > 0){
-                    k=k-1;
-                }
-                else{
-                    j=j+1;
                 }
             }
         }
+
         return ans;
     }
 }
