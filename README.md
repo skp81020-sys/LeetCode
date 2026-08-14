@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/skp81020-sys/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/skp81020-sys/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/skp81020-sys/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/skp81020-sys/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/skp81020-sys/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/skp81020-sys/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/skp81020-sys/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/skp81020-sys/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/skp81020-sys/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/skp81020-sys/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/skp81020-sys/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/skp81020-sys/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/skp81020-sys/LeetCode/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/skp81020-sys/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/skp81020-sys/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/skp81020-sys/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/skp81020-sys/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/skp81020-sys/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/skp81020-sys/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/skp81020-sys/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/skp81020-sys/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -275,4 +278,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/skp81020-sys/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/skp81020-sys/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/skp81020-sys/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
