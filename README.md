@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/skp81020-sys/LeetCode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/skp81020-sys/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/skp81020-sys/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/skp81020-sys/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/skp81020-sys/LeetCode/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/skp81020-sys/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/skp81020-sys/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/skp81020-sys/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/skp81020-sys/LeetCode/tree/master/0202-happy-number) |
 | [1137-n-th-tribonacci-number](https://github.com/skp81020-sys/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/skp81020-sys/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Memoization
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/skp81020-sys/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/skp81020-sys/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/skp81020-sys/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/skp81020-sys/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/skp81020-sys/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/skp81020-sys/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/skp81020-sys/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/skp81020-sys/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/skp81020-sys/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/skp81020-sys/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/skp81020-sys/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
