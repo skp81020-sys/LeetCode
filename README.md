@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/skp81020-sys/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/skp81020-sys/LeetCode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/skp81020-sys/LeetCode/tree/master/0258-add-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/skp81020-sys/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/skp81020-sys/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Memoization
@@ -354,4 +355,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/skp81020-sys/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/skp81020-sys/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/skp81020-sys/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
