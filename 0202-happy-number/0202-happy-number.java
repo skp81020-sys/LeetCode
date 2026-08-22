@@ -15,14 +15,11 @@ class Solution {
 
         while(fast !=1){
             slow=fun(slow);
-            fast=fun(fast);
-            fast=fun(fast);
-
+            fast=fun(fun(fast));
             if(fast==slow && slow !=1){
                 return false;
             }
         }
-
         return true;
     }
 }
