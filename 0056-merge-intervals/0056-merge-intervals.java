@@ -1,7 +1,7 @@
 class Solution {
     public int[][] merge(int[][] nums) {
         int n=nums.length;
-        int ans[][]=new int[n][2];
+        int ans[][]=new int[n+1][2];
         int a=0;
        Arrays.sort(nums, (c, b) -> c[0] - b[0]);
         for(int i=0;i<n;i++){
