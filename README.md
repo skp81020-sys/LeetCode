@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/skp81020-sys/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/skp81020-sys/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/skp81020-sys/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/skp81020-sys/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/skp81020-sys/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/skp81020-sys/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/skp81020-sys/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/skp81020-sys/LeetCode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/skp81020-sys/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/skp81020-sys/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [3483-unique-3-digit-even-numbers](https://github.com/skp81020-sys/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/skp81020-sys/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/skp81020-sys/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/skp81020-sys/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/skp81020-sys/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/skp81020-sys/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/skp81020-sys/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Quicksort
 |  |
 | ------- |
