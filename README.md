@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/skp81020-sys/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/skp81020-sys/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/skp81020-sys/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0503-next-greater-element-ii](https://github.com/skp81020-sys/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/skp81020-sys/LeetCode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/skp81020-sys/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/skp81020-sys/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/skp81020-sys/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/skp81020-sys/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/skp81020-sys/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/skp81020-sys/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/skp81020-sys/LeetCode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/skp81020-sys/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Greedy
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/skp81020-sys/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/skp81020-sys/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/skp81020-sys/LeetCode/tree/master/0739-daily-temperatures) |
 ## Prefix Sum
 |  |
