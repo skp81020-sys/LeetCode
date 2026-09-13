@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/skp81020-sys/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/skp81020-sys/LeetCode/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/skp81020-sys/LeetCode/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/skp81020-sys/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/skp81020-sys/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/skp81020-sys/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/skp81020-sys/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/skp81020-sys/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/skp81020-sys/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/skp81020-sys/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/skp81020-sys/LeetCode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/skp81020-sys/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/skp81020-sys/LeetCode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/skp81020-sys/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/skp81020-sys/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/skp81020-sys/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/skp81020-sys/LeetCode/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/skp81020-sys/LeetCode/tree/master/0402-remove-k-digits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/skp81020-sys/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/skp81020-sys/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Recursion
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/skp81020-sys/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/skp81020-sys/LeetCode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/skp81020-sys/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/skp81020-sys/LeetCode/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/skp81020-sys/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
