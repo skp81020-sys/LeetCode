@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/skp81020-sys/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/skp81020-sys/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/skp81020-sys/LeetCode/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/skp81020-sys/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/skp81020-sys/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/skp81020-sys/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/skp81020-sys/LeetCode/tree/master/0525-contiguous-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/skp81020-sys/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/skp81020-sys/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/skp81020-sys/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/skp81020-sys/LeetCode/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/skp81020-sys/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/skp81020-sys/LeetCode/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/skp81020-sys/LeetCode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/skp81020-sys/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/skp81020-sys/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/skp81020-sys/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/skp81020-sys/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
