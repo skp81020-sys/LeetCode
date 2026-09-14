@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/skp81020-sys/LeetCode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/skp81020-sys/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/skp81020-sys/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/skp81020-sys/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3483-unique-3-digit-even-numbers](https://github.com/skp81020-sys/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/skp81020-sys/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/skp81020-sys/LeetCode/tree/master/0912-sort-an-array) |
+| [1189-maximum-number-of-balloons](https://github.com/skp81020-sys/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/skp81020-sys/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/skp81020-sys/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/skp81020-sys/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/skp81020-sys/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/skp81020-sys/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/skp81020-sys/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Math
