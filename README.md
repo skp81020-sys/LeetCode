@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/skp81020-sys/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/skp81020-sys/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/skp81020-sys/LeetCode/tree/master/0258-add-digits) |
+| [0836-rectangle-overlap](https://github.com/skp81020-sys/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/skp81020-sys/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/skp81020-sys/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/skp81020-sys/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -424,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/skp81020-sys/LeetCode/tree/master/0986-interval-list-intersections) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/skp81020-sys/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
