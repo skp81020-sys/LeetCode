@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/skp81020-sys/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/skp81020-sys/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/skp81020-sys/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/skp81020-sys/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/skp81020-sys/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/skp81020-sys/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/skp81020-sys/LeetCode/tree/master/0912-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/skp81020-sys/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/skp81020-sys/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/skp81020-sys/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/skp81020-sys/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/skp81020-sys/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/skp81020-sys/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Math
 |  |
 | ------- |
