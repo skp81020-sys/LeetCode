@@ -1,20 +1,16 @@
 class Solution {
     public int findMin(int[] nums) {
-        int n=nums.length;
-        int si=0;
-        int ei=n-1;
-        // Not rotated Sorted the Arrays...
-        if(nums[si]<=nums[ei]) return nums[si];
-        // Rotated and sorted Arrays..
-        while(si < ei){
-             int mid =(si+ei)/2;
-             if(nums[mid] < nums[ei]){
-                ei=mid;
-             }
-             else{
-                si=mid+1;
-             }
+        int lo=0;
+        int hi=nums.length-1;
+        if(nums[lo] < nums[hi]) return nums[lo];
+        while(lo < hi){
+            int mid=lo+(hi-lo)/2;
+            if(nums[mid] < nums[hi]){
+                hi=mid;
+            }else{
+                lo=mid+1;
+            }
         }
-        return nums[si];
+        return nums[lo];
     }
 }
