@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/skp81020-sys/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/skp81020-sys/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/skp81020-sys/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/skp81020-sys/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/skp81020-sys/LeetCode/tree/master/0258-add-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/skp81020-sys/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
