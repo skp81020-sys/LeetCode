@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/skp81020-sys/LeetCode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/skp81020-sys/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/skp81020-sys/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/skp81020-sys/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/skp81020-sys/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/skp81020-sys/LeetCode/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/skp81020-sys/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/skp81020-sys/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/skp81020-sys/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/skp81020-sys/LeetCode/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/skp81020-sys/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/skp81020-sys/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/skp81020-sys/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/skp81020-sys/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/skp81020-sys/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/skp81020-sys/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/skp81020-sys/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/skp81020-sys/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/skp81020-sys/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/skp81020-sys/LeetCode/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/skp81020-sys/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/skp81020-sys/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/skp81020-sys/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/skp81020-sys/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/skp81020-sys/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/skp81020-sys/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Merge Sort
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/skp81020-sys/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/skp81020-sys/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/skp81020-sys/LeetCode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -176,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/skp81020-sys/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/skp81020-sys/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/skp81020-sys/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/skp81020-sys/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/skp81020-sys/LeetCode/tree/master/0912-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/skp81020-sys/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/skp81020-sys/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -304,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/skp81020-sys/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/skp81020-sys/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/skp81020-sys/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0692-top-k-frequent-words](https://github.com/skp81020-sys/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/skp81020-sys/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/skp81020-sys/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/skp81020-sys/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -512,4 +519,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/skp81020-sys/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/skp81020-sys/LeetCode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
