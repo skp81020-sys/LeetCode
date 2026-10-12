@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/skp81020-sys/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/skp81020-sys/LeetCode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/skp81020-sys/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/skp81020-sys/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/skp81020-sys/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/skp81020-sys/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/skp81020-sys/LeetCode/tree/master/0912-sort-an-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/skp81020-sys/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/skp81020-sys/LeetCode/tree/master/0767-reorganize-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/skp81020-sys/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/skp81020-sys/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0912-sort-an-array](https://github.com/skp81020-sys/LeetCode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/skp81020-sys/LeetCode/tree/master/1046-last-stone-weight) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/skp81020-sys/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/skp81020-sys/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/skp81020-sys/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/skp81020-sys/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/skp81020-sys/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1137-n-th-tribonacci-number](https://github.com/skp81020-sys/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/skp81020-sys/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/skp81020-sys/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/skp81020-sys/LeetCode/tree/master/0502-ipo) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/skp81020-sys/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0767-reorganize-string](https://github.com/skp81020-sys/LeetCode/tree/master/0767-reorganize-string) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/skp81020-sys/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/skp81020-sys/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/skp81020-sys/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/skp81020-sys/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
