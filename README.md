@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/skp81020-sys/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/skp81020-sys/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/skp81020-sys/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/skp81020-sys/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/skp81020-sys/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/skp81020-sys/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/skp81020-sys/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/skp81020-sys/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/skp81020-sys/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/skp81020-sys/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/skp81020-sys/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/skp81020-sys/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
 |  |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/skp81020-sys/LeetCode/tree/master/0767-reorganize-string) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/skp81020-sys/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/skp81020-sys/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/skp81020-sys/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Recursion
 |  |
 | ------- |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/skp81020-sys/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/skp81020-sys/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Pigeonhole Principle
 |  |
 | ------- |
