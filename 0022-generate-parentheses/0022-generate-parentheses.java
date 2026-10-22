@@ -1,22 +1,19 @@
 class Solution {
-    public static void generate(int n,int open,String curr,ArrayList<String> arr){
-    // Base Case 
-    if(curr.length() == 2*n){
-        arr.add(curr);
-        return;
+    public  void Generate(int n,ArrayList<String> arr,int o,int c,String curr){
+        if(o==n && c==n){
+            arr.add(curr);
+            return;
+        }
+        if(o < n){
+            Generate(n,arr,o+1,c,curr+'(');
+        }
+        if(o > c){
+             Generate(n,arr,o,c+1,curr+')');
+        }
     }
-
-    if(open < n){
-        generate(n, open+1, curr+'(', arr);
-    }
-
-    if(curr.length() -open <open){
-          generate(n, open, curr+')', arr);
-    }
-}
     public List<String> generateParenthesis(int n) {
-         ArrayList<String> arr = new ArrayList<>();
-        generate(n,0,"",arr);
-        return arr;
+        ArrayList<String> arr=new ArrayList<>();
+         Generate(n,arr,0,0,"");
+         return arr;
     }
 }
