@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/skp81020-sys/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/skp81020-sys/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/skp81020-sys/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/skp81020-sys/LeetCode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Hash Table
 |  |
 | ------- |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/skp81020-sys/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/skp81020-sys/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/skp81020-sys/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/skp81020-sys/LeetCode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Math
 |  |
 | ------- |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/skp81020-sys/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/skp81020-sys/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/skp81020-sys/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/skp81020-sys/LeetCode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Recursion
 |  |
 | ------- |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/skp81020-sys/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/skp81020-sys/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/skp81020-sys/LeetCode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Pigeonhole Principle
 |  |
 | ------- |
