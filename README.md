@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/skp81020-sys/LeetCode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/skp81020-sys/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/skp81020-sys/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/skp81020-sys/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/skp81020-sys/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/skp81020-sys/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/skp81020-sys/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/skp81020-sys/LeetCode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/skp81020-sys/LeetCode/tree/master/0078-subsets) |
 ## Topological Sort
 |  |
 | ------- |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/skp81020-sys/LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/skp81020-sys/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/skp81020-sys/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/skp81020-sys/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
