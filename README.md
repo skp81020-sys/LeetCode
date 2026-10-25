@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/skp81020-sys/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/skp81020-sys/LeetCode/tree/master/1046-last-stone-weight) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/skp81020-sys/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1254-number-of-closed-islands](https://github.com/skp81020-sys/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/skp81020-sys/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/skp81020-sys/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/skp81020-sys/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/skp81020-sys/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/skp81020-sys/LeetCode/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/skp81020-sys/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1254-number-of-closed-islands](https://github.com/skp81020-sys/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/skp81020-sys/LeetCode/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/skp81020-sys/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/skp81020-sys/LeetCode/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/skp81020-sys/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/skp81020-sys/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/skp81020-sys/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/skp81020-sys/LeetCode/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/skp81020-sys/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Tree
 |  |
 | ------- |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/skp81020-sys/LeetCode/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/skp81020-sys/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## String
 |  |
 | ------- |
