@@ -25,9 +25,11 @@ class Solution {
                 ans =true;
                 return;
             }
+        }else{
+            hasPath(root.left,target,sum);
+            hasPath(root.right,target,sum);
         }
-        hasPath(root.left,target,sum);
-        hasPath(root.right,target,sum);
+        
     }
     public boolean hasPathSum(TreeNode root, int targetSum) {
         hasPath(root,targetSum,0);
