@@ -20,12 +20,9 @@ class Solution {
     void fun(TreeNode root){
         if(root==null ) return;
         fun(root.left);
-        if(prev==null){
-            prev=root;
-        }else if(prev.val>= root.val){
+         if(prev!=null && prev.val>= root.val){
             res=false;
-            prev=root;
-        }else prev=root;
+        }  prev=root;
          fun(root.right); 
         }
     public boolean isValidBST(TreeNode root) {
