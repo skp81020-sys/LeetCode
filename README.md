@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/skp81020-sys/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/skp81020-sys/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/skp81020-sys/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/skp81020-sys/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/skp81020-sys/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/skp81020-sys/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/skp81020-sys/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2409-count-days-spent-together](https://github.com/skp81020-sys/LeetCode/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/skp81020-sys/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3498-reverse-degree-of-a-string](https://github.com/skp81020-sys/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/skp81020-sys/LeetCode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Math
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/skp81020-sys/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/skp81020-sys/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/skp81020-sys/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/skp81020-sys/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Monotonic Stack
 |  |
 | ------- |
