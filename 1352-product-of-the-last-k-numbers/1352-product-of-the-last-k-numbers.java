@@ -1,20 +1,25 @@
 class ProductOfNumbers {
     public ArrayList<Integer> arr;
+    int  n;
     public ProductOfNumbers() {
         arr=new ArrayList<>();
+        arr.add(1);
     }
     
     public void add(int num) {
-        arr.add(num);
+        if(num==0) {
+              arr.clear();
+             arr.add(1);
+        }else {
+            int n=arr.size();
+            arr.add(arr.get(n-1) * num);
+        }
     }
     
     public int getProduct(int k) {
         int n=arr.size();
-        int p=1;
-        for(int i=n-k;i<n;i++){
-            p *=arr.get(i);
-        }
-        return p;
+        if(n <= k) return 0;
+        return arr.get(n-1)/arr.get(n-k-1);
     }
 }
 
