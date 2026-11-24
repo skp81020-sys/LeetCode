@@ -1,62 +1,56 @@
 class Solution {
-      static class Pair {
-        int node, dis;
-        Pair(int node, int dis) {
-            this.node = node;
-            this.dis = dis;
+    class Pair{
+        int node;
+        int des;
+        Pair(int node ,int des){
+            this.node=node;
+            this.des=des;
         }
     }
-    public int networkDelayTime(int[][] times, int n, int src) {
-         ArrayList<ArrayList<ArrayList<Integer>>> adj = new ArrayList<>();
-        for (int i = 0; i <= n; i++) {
+    public int networkDelayTime(int[][] times, int n, int k) {
+         List<List<Pair>> adj=new ArrayList<>();
+         for(int i=0;i<n;i++){
             adj.add(new ArrayList<>());
-        }
-        src--;
+         }
 
-        // 2. Edges add karne ke liye times.length tak loop chalayein
-        for (int i = 0; i < times.length; i++) {
-            int s = times[i][0];
-            int d = times[i][1];
-            int w = times[i][2];
-            s--;
-            d--;
-            // Typo fix: 'adj.get(s).add' aur 'ArrayList'
-            adj.get(s).add(new ArrayList<>(List.of(d, w)));
-        }
-          ArrayList<Integer> ans =new ArrayList<>();
-        //  int n=adj.size();
-        for(int i=0;i<n;i++){
-            if(i==src){
-                ans.add(i,0);
-            }else ans.add(i,Integer.MAX_VALUE);
-        }
-        PriorityQueue<Pair>  q =new PriorityQueue<>((a, b) -> Integer.compare(a.dis, b.dis));
+         for(int i=0;i<times.length;i++){
+            int s=times[i][0]-1 ;
+            int d=times[i][1]-1 ;
+            int t=times[i][2]  ;
+            adj.get(s).add(new Pair(d,t));
+         }
+            k--;
+        //Disjstra Algrotim 
+        PriorityQueue<Pair> q=new PriorityQueue<>((a,b) -> Integer.compare(a.des,b.des));
         int vis[]=new int[n];
-        q.add(new Pair(src,0));
+        int ans[]=new int[n];
+        Arrays.fill(ans,Integer.MAX_VALUE);
+        ans[k]=0;
+        q.add(new Pair(k,0));
         while(!q.isEmpty()){
             Pair p=q.poll();
-            int node=p.node;
-            int dis=p.dis;
+            int node =p.node;
+            int des=p.des;
+            if(vis[node]==1) continue;
             vis[node]=1;
-            // Call For the all Neighours 
+            // vis[node]= ;
             for(int i=0;i<adj.get(node).size();i++){
-                int x=adj.get(node).get(i).get(0);
-                int y=adj.get(node).get(i).get(1);
-                if(vis[x]==0){
-                    int newDis=dis+y;
-                   if (newDis < ans.get(x)){
-                        ans.set(x, newDis);
-                        q.add(new Pair(x,newDis));
-                    }
+                Pair w=adj.get(node).get(i);
+                int x=w.node;
+                int y=w.des;
+                int newdes=des +y ;
+                if(ans[x] > newdes ){
+                    ans[x]=newdes;
+                    q.add(new Pair(x,newdes));
                 }
             }
         }
-        
-        int a=-1;
+
+        int a=0;
         for(int i=0;i<n;i++){
-            a=Math.max(ans.get(i),a);
+            if(ans[i]==Integer.MAX_VALUE) return -1;
+            a=Math.max(a,ans[i]);
         }
-        if(a==Integer.MAX_VALUE) return -1;
         return a;
     }
 }
