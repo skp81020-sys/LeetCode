@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/skp81020-sys/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/skp81020-sys/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/skp81020-sys/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1631-path-with-minimum-effort](https://github.com/skp81020-sys/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/skp81020-sys/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/skp81020-sys/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/skp81020-sys/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/skp81020-sys/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0912-sort-an-array](https://github.com/skp81020-sys/LeetCode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/skp81020-sys/LeetCode/tree/master/1046-last-stone-weight) |
+| [1631-path-with-minimum-effort](https://github.com/skp81020-sys/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/skp81020-sys/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Queue
 |  |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/skp81020-sys/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/skp81020-sys/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/skp81020-sys/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1631-path-with-minimum-effort](https://github.com/skp81020-sys/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/skp81020-sys/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/skp81020-sys/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/skp81020-sys/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/skp81020-sys/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/skp81020-sys/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1254-number-of-closed-islands](https://github.com/skp81020-sys/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/skp81020-sys/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/skp81020-sys/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/skp81020-sys/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/skp81020-sys/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/skp81020-sys/LeetCode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/skp81020-sys/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/skp81020-sys/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/skp81020-sys/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
@@ -400,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/skp81020-sys/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/skp81020-sys/LeetCode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/skp81020-sys/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/skp81020-sys/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/skp81020-sys/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/skp81020-sys/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
@@ -469,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/skp81020-sys/LeetCode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/skp81020-sys/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/skp81020-sys/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/skp81020-sys/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/skp81020-sys/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String
 |  |
@@ -823,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/skp81020-sys/LeetCode/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/skp81020-sys/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Euclidean Algorithm
 |  |
 | ------- |
