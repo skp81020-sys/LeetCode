@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/skp81020-sys/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/skp81020-sys/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/skp81020-sys/LeetCode/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/skp81020-sys/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/skp81020-sys/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/skp81020-sys/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/skp81020-sys/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/skp81020-sys/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/skp81020-sys/LeetCode/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/skp81020-sys/LeetCode/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/skp81020-sys/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/skp81020-sys/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/skp81020-sys/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0912-sort-an-array](https://github.com/skp81020-sys/LeetCode/tree/master/0912-sort-an-array) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/skp81020-sys/LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/skp81020-sys/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/skp81020-sys/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0778-swim-in-rising-water](https://github.com/skp81020-sys/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/skp81020-sys/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/skp81020-sys/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/skp81020-sys/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/skp81020-sys/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/skp81020-sys/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/skp81020-sys/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/skp81020-sys/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/skp81020-sys/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/skp81020-sys/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1254-number-of-closed-islands](https://github.com/skp81020-sys/LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/skp81020-sys/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/skp81020-sys/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/skp81020-sys/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/skp81020-sys/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/skp81020-sys/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/skp81020-sys/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/skp81020-sys/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -406,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/skp81020-sys/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/skp81020-sys/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/skp81020-sys/LeetCode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/skp81020-sys/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/skp81020-sys/LeetCode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/skp81020-sys/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/skp81020-sys/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -476,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/skp81020-sys/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/skp81020-sys/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/skp81020-sys/LeetCode/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/skp81020-sys/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/skp81020-sys/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/skp81020-sys/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/skp81020-sys/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -834,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/skp81020-sys/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/skp81020-sys/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/skp81020-sys/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Euclidean Algorithm
 |  |
@@ -851,4 +859,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/skp81020-sys/LeetCode/tree/master/3934-smallest-unique-subarray) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/skp81020-sys/LeetCode/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
