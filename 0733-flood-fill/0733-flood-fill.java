@@ -1,24 +1,35 @@
 class Solution {
-    public void helper(int[][] image, int sr, int sc, int color,boolean vis[][],int orgiCol){
-        if(sr<0 || sc<0 || sr>=image.length || sc >=image[0].length || vis[sr][sc] || 
-        image[sr][sc]!=orgiCol){
-            return;
+    int n;
+    int m;
+    int dir[][]={
+        {1,0},{-1,0},{0,1},{0,-1}
+    };
+
+    void dfs(int nums[][],int ans[][] , int i,int j ,boolean vis[][],int color,int startColor){
+        vis[i][j]=true;
+        ans[i][j]=color;
+
+        for(int k=0;k<4;k++){
+             int ni=dir[k][0] + i;
+             int nj=dir[k][1]+j;
+             if(ni >= 0 && nj >=0 && ni < n && nj < m && vis[ni][nj]==false &&  nums[ni][nj]==startColor){
+                dfs(nums,ans,ni,nj,vis,color,startColor);
+             } 
         }
-        vis[sr][sc]=true;
-        image[sr][sc]=color;
-        // left
-        helper(image,sr,sc-1,color,vis,orgiCol);
-        // right
-         helper(image,sr,sc+1,color,vis,orgiCol);
-        // up
-         helper(image,sr-1,sc,color,vis,orgiCol);
-         // Down
-          helper(image,sr+1,sc,color,vis,orgiCol);
+
     }
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        boolean vis[][]=new boolean[image.length][image[0].length];
-         int  orgiCol=image[sr][sc];
-          helper(image,sr,sc,color,vis,orgiCol);
-          return image;
+          n=image.length;
+          m=image[0].length;
+           int startColor = image[sr][sc];
+           if(startColor == color) return image;
+          int ans[][]=new int[n][m];
+           for (int i = 0; i < n; i++) {
+            ans[i] = image[i].clone();
+        }
+
+          boolean vis[][]=new  boolean[n][m];
+          dfs(image,ans,sr,sc,vis,color,startColor);
+          return ans;
     }
 }
