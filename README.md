@@ -553,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/skp81020-sys/LeetCode/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/skp81020-sys/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/skp81020-sys/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/skp81020-sys/LeetCode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/skp81020-sys/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/skp81020-sys/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/skp81020-sys/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/skp81020-sys/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/skp81020-sys/LeetCode/tree/master/0412-fizz-buzz) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/skp81020-sys/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/skp81020-sys/LeetCode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/skp81020-sys/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
