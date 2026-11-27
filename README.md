@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/skp81020-sys/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/skp81020-sys/LeetCode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/skp81020-sys/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/skp81020-sys/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/skp81020-sys/LeetCode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Hash Table
 |  |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/skp81020-sys/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/skp81020-sys/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/skp81020-sys/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/skp81020-sys/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/skp81020-sys/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/skp81020-sys/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/skp81020-sys/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/skp81020-sys/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/skp81020-sys/LeetCode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Recursion
 |  |
